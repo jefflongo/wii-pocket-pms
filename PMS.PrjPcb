@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for PMS
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -259,7 +259,7 @@ GenerateClassCluster=0
 DocumentUniqueId=AJPKEIRS
 
 [Document14]
-DocumentPath=PMS.OutJob
+DocumentPath=PMS.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -273,7 +273,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WLVQNMLK
 
 [SearchPath1]
 Path=..\..\..\Altium\lib\*.*
@@ -326,7 +326,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for PMS
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
