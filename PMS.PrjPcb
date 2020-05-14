@@ -1,4 +1,4 @@
-[Design]
+﻿[Design]
 Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=0
@@ -274,6 +274,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WLVQNMLK
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for PMS\Design Rule Check - PMS.html
+DItemRevisionGUID=
 
 [SearchPath1]
 Path=..\..\..\Altium\lib\*.*
